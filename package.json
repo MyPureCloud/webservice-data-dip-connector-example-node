@@ -1,0 +1,17 @@
+{
+  "name": "wsdd-test-app",
+  "version": "0.0.1",
+  "description": "A node application to test PureCloud Bridge Web Service Data Dips",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Genesys Developer Evangelists",
+  "license": "MIT",
+  "dependencies": {
+  	"express": "^4.15.2",
+  	"body-parser": "^1.17.1",
+  	"fs-extra": "^3.0.0",
+  	"lodash": "^4.17.4"
+  }
+}

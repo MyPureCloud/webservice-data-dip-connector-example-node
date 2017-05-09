@@ -1,0 +1,37 @@
+{
+  "1001": {
+    "Contact": {
+      "EmailAddresses": {
+        "EmailAddress": [
+          {
+            "EmailAddress": "test@test.com",
+            "EmailType": 0
+          }
+        ]
+      },
+      "FirstName": "Test",
+      "LastName": "Account",
+      "FullName": "BoJack Horseman",
+      "Id": "1001",
+      "PhoneNumbers": {
+        "PhoneNumber": [
+          {
+            "Number": "1 (303) 555-1001",
+            "PhoneType": 0
+          }
+        ]
+      },
+      "Address": {
+        "City": "Denver",
+        "Country": "USA",
+        "Line1": "1000 Test St.",
+        "Line2": "",
+        "Line3": "",
+        "PostalCode": "80014",
+        "State": "CO",
+        "Type": 0
+      },
+      "CustomAttribute": "silly"
+    }
+  }
+}
