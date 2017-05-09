@@ -1,6 +1,6 @@
 # webservice-data-dip-connector-example-node
 
-This project is an example node.js bridge server integration web service that's used in the blog post: TBD
+This project is an example node.js [Web Services Data Dip Connector](https://developer.mypurecloud.com/api/webservice-datadip/) integration web service that's used in the blog post: TBD
 
 # Running the web service
 
