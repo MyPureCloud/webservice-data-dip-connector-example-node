@@ -191,7 +191,7 @@ function logStartRequest(req) {
 }
 
 function normalizePhoneNumber(phoneNumber) {
-	return phoneNumber.replace(/[^0-9a-z]/gi, '');
+	return phoneNumber.replace(/[^0-9]/gi, '');
 }
 
 function normalizeContactName(name) {
